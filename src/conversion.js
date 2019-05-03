@@ -1,3 +1,4 @@
+//something
 /**
  * @file A simple and easy-to-use JS image compression tools
  * @author wangyulue(wangyulue@gmail.com)
